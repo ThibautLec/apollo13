@@ -1,0 +1,6 @@
+﻿  GameOverPage.cpp
+c:\users\user\source\repos\jeuxvideo\jeuxvideo\gameoverpage.cpp(15): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\user\source\repos\jeuxvideo\jeuxvideo\gameoverpage.cpp(25): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\user\source\repos\jeuxvideo\jeuxvideo\gameoverpage.cpp(42): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\user\source\repos\jeuxvideo\jeuxvideo\gameoverpage.cpp(69): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  JeuxVideo.vcxproj -> C:\Users\User\source\repos\JeuxVideo\Debug\JeuxVideo.exe
